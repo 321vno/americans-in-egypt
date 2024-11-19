@@ -1,15 +1,21 @@
 field,display_name,browse_link,external_link
+objectid,ID,
+filename,Filename,
+image_thumb,Thumbnail,
 title,Title,
+publisher,Publisher,
 creator,Creator,
 date,Date Created,
 description,Description,
+type,Type,
+format,Format,
+genre,Genre,
+medium,Medium,
 subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
+language,Language,
 source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
