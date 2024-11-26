@@ -12,7 +12,7 @@ format,Format,
 genre,Genre,
 medium,Medium,
 subject,Subjects,true
-location,Location
+location,Location,true
 latitude,Latitude
 longitude,Longitude
 language,Language,
