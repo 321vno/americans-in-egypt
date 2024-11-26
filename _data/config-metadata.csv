@@ -1,10 +1,9 @@
 field,display_name,browse_link,external_link
 objectid,ID,
 filename,Filename,
-image_thumb,Thumbnail,
 title,Title,
 publisher,Publisher,
-creator,Creator,
+creator,Creator,true,
 date,Date Created,
 description,Description,
 type,Type,
