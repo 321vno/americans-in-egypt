@@ -31,7 +31,7 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 # MAP PAGE
 #
 # see _data/map-config.csv for field display options
-latitude: 37.967760 #to determine center of map
+latitude: 36.967760 #to determine center of map
 longitude: -25.541992 #to determine center of map
 zoom-level: 3 # zoom level for map 
 map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery, OpenStreetMap_Mapnik
