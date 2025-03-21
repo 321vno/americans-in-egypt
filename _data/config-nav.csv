@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
+Roster,/roster.html
 Browse,/browse.html
 Subjects,/subjects.html
-Roster,/roster.html
 Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
