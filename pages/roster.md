@@ -1,6 +1,6 @@
 ---
 title: roster
-layout: roster
+layout: page
 permalink: /roster.html
 ---
 
