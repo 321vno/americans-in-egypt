@@ -8,4 +8,4 @@ permalink: /roster.html
 
 **William Wing Loring (1818-1886)** *Confederate Veteran*
 ![alt text](assets/img/loring_egypt3.jpeg) 
-Loring served in the Egyptian military under Khedive Ismail Pasha from 1869-1879 and was charged with the managment of the country's coastal defenses in Alexandria.
+Loring served in the Egyptian military under Khedive Ismail Pasha from 1869-1879 and was charged with the managment of the country's coastal defenses in Alexandria. To view his collection, click here.
