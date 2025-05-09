@@ -10,7 +10,7 @@ credits: true
 
 My name is Victoria Oliviero and I am a graduating second year masters student in English at Boston College. This project is the culmination of my research over the past two years and the final product of my Digital Humanities Certificate program. While it is by no means a finished product, it is already a solid collection of 24 American soldiers who served in the Egyptian Army under Khedive Ismail Pasha. My studies focus on nineteenth-century American travel literature and Egyptomania in the U.S. This project was born out of my analysis of William Wing Loring’s 1884 memoir *A Confederate Soldier in Egypt* in my undergraduate thesis project. Since then, I have written multiple papers on Egyptomania and have produced two digital projects on the 48 American soldiers.
 
-![Victoria Oliviero](rosetta-stone-pfp.jpg)
+![Victoria Oliviero](rosetta stone pfp.jpg)
 
 My main purpose for creating this *CollectionBuilder* website is to preserve and organize the works and biographical information of the 48 American soldiers. As mentioned in the **Scholarship** page, there are only a small number of comprehensive projects on the soldiers that exist, and many of them are outdated. I essentially wanted to create a database for the soldiers that could help me produce future projects, digital or written. My network analysis project on the **Network Analysis** page is just one small example of what I intend to do with this website.
 
