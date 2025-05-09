@@ -4,8 +4,10 @@ layout: page
 permalink: /networkanalysis.html
 ---
 
-To demonstrate how this CollectionBuilder site can be used as a database for other digital projects, I decided to test a series of network analyses on Gephi. I decided to explore how often soldiers reference one another in their texts. 
+To demonstrate how this *CollectionBuilder* site can be used as a database for other digital projects, I decided to test a series of network analyses on Gephi. I wanted to explore how often soldiers reference one another in their texts, so I built various graphs in Gephi to see the trends. In order to provide a better visual, I denoted the former Union soldiers in blue, former Confederates in gray, and unaffiliated soldiers in brown. In each diagram, the arrows point from the author of the text towards the subject of the reference.
 
 # Who did the most referencing?
 
 ![Who referenced names the most](https://github.com/user-attachments/assets/910b5304-7c94-4b84-81de-f13a57b48033)
+
+Looking at this graph, we can see that Charles Chaille-Long references the most soldiers in his text, *My Life in Four Continents*, followed by William McEntyre Dye in *Moslem Egypt and Christian Abyssinia*, and William Wing Loring, Richard Henry Savage, and Raleigh Edward Colston in various texts. Soldiers on the fringe of the diagram are only referenced in singular instances by the other soldiers, perhaps suggesting that they either spent little time in Egypt or they took on smaller roles.
