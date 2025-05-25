@@ -1,7 +1,7 @@
 ---
-title: previous scholarship
+title: scholarship
 layout: page
-permalink: /previous-scholarship.html
+permalink: /scholarship.html
 ---
 
 This website is one of very few projects about the 48 American soldiers who served in Egypt, and it is the only project that is digital. There are a handful of sources that I used to inform myself about the topic and to direct my approach with this project.
