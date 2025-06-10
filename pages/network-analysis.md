@@ -1,7 +1,7 @@
 ---
-title: network analysis
+title: analysis
 layout: page
-permalink: /networkanalysis.html
+permalink: /analysis.html
 ---
 ## Network Analysis
 
