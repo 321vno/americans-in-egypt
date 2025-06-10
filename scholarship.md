@@ -1,7 +1,7 @@
 ---
 title: previous-scholarship
 layout: page
-permalink: /previous-scholarship.html
+permalink: /previousscholarship.html
 ---
 ## Previous Scholarship
 
