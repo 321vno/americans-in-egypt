@@ -6,7 +6,7 @@ permalink: /analysis.html
 
 
 
-# Network Analysis
+# Analysis
 
 To demonstrate how this *CollectionBuilder* site can be used as a database for other digital projects, I decided to test a series of network analyses on Gephi. I wanted to explore how often soldiers reference one another in their texts, so I built various graphs in Gephi to see the trends. In order to provide a better visual, I denoted the former Union soldiers in blue, former Confederates in gray, and unaffiliated soldiers in brown. In each diagram, the arrows point from the author of the text towards the subject of the reference.
 
